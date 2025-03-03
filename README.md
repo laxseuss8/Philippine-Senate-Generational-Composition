@@ -22,4 +22,4 @@ The dataset includes information on Philippine Senators, categorized by generati
 - **Matplotlib**  
 - **Jupyter Notebook**
 
-# Credits to the creator of the dataset that can be found here: https://www.kaggle.com/datasets/jcacperalta/senators-of-the-philippines-1st-to-18th-congress
+## Credits to the creator of the dataset that can be found here: https://www.kaggle.com/datasets/jcacperalta/senators-of-the-philippines-1st-to-18th-congress
